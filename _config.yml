@@ -27,6 +27,8 @@ url: "https://jemaddux.com" # the base hostname & protocol for your site, e.g. h
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+google_analytics: UA-39357946-1
+
 # Build settings
 theme: minima
 plugins:
