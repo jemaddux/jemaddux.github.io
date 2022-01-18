@@ -16,7 +16,7 @@ Building a navigation bar in Rails is pretty easy. You simply write up something
  
  And you get a set of urls for your link that look like this:
  
- ![Links](img/hieroglyph links Screenshot 2022-01-18 085621.png)
+ ![Links](/img/hieroglyph links Screenshot 2022-01-18 085621.png)
  
  However if you are on the "Docs" page already then you dont't really need the "Docs" link to be a link. It could just be text. Simple enough, use `link_to_unless_current` instead of `link_to`.
  
@@ -28,7 +28,7 @@ Building a navigation bar in Rails is pretty easy. You simply write up something
 
 The problem is that when you end up on the "Docs" page it looks like this:
 
-![Links borked](hieroglyph links Screenshot borked docs link 2022-01-18.png)
+![Links borked](/img/hieroglyph links Screenshot borked docs link 2022-01-18.png)
 
 What happened? Well, the "Docs" line was rendered as plain text instead of a normal `<a>` tag link. This means that line also didn't render it's `text-with-padding` class and no CSS was applied to it. Without the CSS the padding was lost and "Docs" went and cozied up to the "Demo".
 
