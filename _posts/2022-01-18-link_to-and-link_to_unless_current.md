@@ -48,6 +48,6 @@ We can fix this by moving the class to a wrapping div and get the best of both w
 
 This is more lines of code but that is the trade-off. Have fun and choose your own adventure!
 
-**Screenshots taken from *[Hieroglyph Screenshots](https://www.hieroglyphapp.com)*, a forthcoming product from *[Dragon Astronauts](https://www.dragonastronauts.com/)*.**
+**Screenshots taken from *[Hieroglyph Screenshots](https://www.hieroglyphscreenshots.com)*.**
   
   
