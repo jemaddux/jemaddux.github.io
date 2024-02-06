@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-[Dragon Astronauts](https://dragonastronauts.com)
+I blog about programming at:     
+[Dragon Astronauts](https://dragonastronauts.substack.com)
