@@ -8,7 +8,6 @@ layout: home
 John Maddux
 
 Blogging at: blog.dragonastronauts.com
- - 
 
 Ruby Gems:
 - https://rubygems.org/gems/lorem_tolkien
