@@ -2,41 +2,14 @@
 layout: home
 ---
 
-John Maddux
+### About Me
 
-Blogging at: blog.dragonastronauts.com
+I am a Principal Software Engineer specializing in Ruby on Rails with over a decade of experience in the field. Since 2013, I have honed my skills and expertise, contributing to numerous projects and organizations. My blog, [Dragon Astronauts](https://dragonastronauts.substack.com), is where I share insights and knowledge about programming.
 
-Ruby Gems:
-- https://rubygems.org/gems/lorem_tolkien
-- https://rubygems.org/gems/tiedye
+I run Dragon Astronauts LLC, my private company dedicated to various innovative and fun projects, including Hieroglyph and Go Run/AirRun. I've also created publicly available Ruby Gems such as Lorem Tolkien and Tiedye. My technical proficiency spans Ruby on Rails, Jekyll, React, Node.js, and React Native, and I adapt quickly to new languages and frameworks.
 
-iPhone Apps
-- Go Run
+My professional journey includes roles at BrightWhistle, Influence Health, One Click Politics, ClickFunnels, and Debtbook. For a detailed overview of my career, please refer to my resume.
 
-Hieroglyph Screenshots.com
+I pursued my software engineering education at the Turing School of Software and Design and hold a degree in International Affairs from the Georgia Institute of Technology.
 
 ![John](/img/john.jpg)
-
-
-Resume
-
-Gems
-
-iPhone Apps
-
-Hieroglyphs Screenshots
-
-Etc
-
-Link to DA
-
-
-
-
-I am a Principal Software Engineer specializing in Ruby on Rails. I have been working as a software engineer since 2013. I write at blog.dragonastronauts.com. I also run Dragon Astronauts LLC which is my private company for my various money making fun projects (Hieroglyph, Go Run/AirRun). I have built publically available Ruby Gems (Lorem Tolkien and Tiedye). I am familiar with Ruby on Rails, Jekyll, React, Node.js and React Native and have worked in various other languages and frameworks (I learn fast). 
-
-I have worked at BrightWhistle, Influence Health, One Click Politics, ClickFunnels and Debtbook (see more on my resume). 
-
-I went to school at the Turing School of Software and Design to learn software engineering.
-
-I went to Georgia Institute of Technology for International Affairs. 
