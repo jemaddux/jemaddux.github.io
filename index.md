@@ -18,7 +18,7 @@ I am a
 <!-- [ruby gem maker](#ruby-gems),  -->
 <!-- [app builder](#iphone-apps),  -->
 <!-- [shop keep](#dragon-astronauts-merch-shop),  -->
-[alumnus](#education), 
+<!-- [alumnus](#education),  -->
 and a runner.
 
 ## Principal Software Engineer
@@ -81,7 +81,6 @@ Here are some of my top posts:
 
 - Hieroglyph: A next-generation development screen shoting tool.
 
-[Note: I don't have access to the screenshots of Hieroglyph, but this section should showcase your development tool's interface and features] -->
 
 <!-- ## Ruby Gems
 I've also created publicly available Ruby Gems such as Lorem Tolkien and Tiedye. 
@@ -112,7 +111,7 @@ Visit the [Dragon Astronauts shop](https://dragonastronauts.myshopify.com) to fi
 
 Perfect for tech enthusiasts and software developers who want to show their Dragon Astronauts spirit. -->
 
-## Education
+<!-- ## Education
 
 My journey in software engineering is built on a strong educational foundation:
 - Software Engineering: Turing School of Software and Design
@@ -120,7 +119,7 @@ My journey in software engineering is built on a strong educational foundation:
 
 This unique combination of technical training and international perspective allows me to approach problem-solving with both technical precision and global awareness.
 
-I pursued my software engineering education at the Turing School of Software and Design and hold a degree in International Affairs from the Georgia Institute of Technology.
+I pursued my software engineering education at the Turing School of Software and Design and hold a degree in International Affairs from the Georgia Institute of Technology. -->
 
 ## Connect
 
