@@ -23,7 +23,7 @@ and a runner.
 
 ## Principal Software Engineer
 
-With over a decade of experience crafting robust web applications, I specialize in building scalable solutions that drive business growth. My journey in software engineering has been marked by leading high-impact initiatives at companies ranging from innovative startups to established enterprises.
+I have over a decade of experience crafting robust web applications, I specialize in building scalable solutions that drive business growth. My journey in software engineering has been marked by leading high-impact initiatives at companies ranging from innovative startups to established enterprises.
 
 My expertise spans across:
 - Backend: Ruby on Rails, Node.js
@@ -69,14 +69,12 @@ I run also [Dragon Astronauts](https://dragonastronauts.com), my private company
 
 ## Dragon Astronauts Blog
 
-https://dragonastronauts.com/all-posts/
-
 Here are some of my top posts:
-https://dragonastronauts.com/p/why-you-should-use-docker-in-development/
-https://dragonastronauts.com/p/notes-on-the-rails-8-keynote-its-more-fun-to-be-competent/
-https://dragonastronauts.com/p/the-differences-between-ruby-blocks-procs-lambdas-and-closures/
-https://dragonastronauts.com/p/why-do-we-bundle-exec-re-examined/
-https://dragonastronauts.com/p/using-spaced-repetition-to-learn-programming/
+- [Why you should use Docker in Development](https://dragonastronauts.com/p/why-you-should-use-docker-in-development/)
+- [Notes on the Rails 8 Keynote: "It's more fun to be competent"](https://dragonastronauts.com/p/notes-on-the-rails-8-keynote-its-more-fun-to-be-competent/)
+- [The difference between Ruby blocks, procs, lambdas, and closures](https://dragonastronauts.com/p/the-differences-between-ruby-blocks-procs-lambdas-and-closures/)
+- [Why do we bundle exec (rexamined)](https://dragonastronauts.com/p/why-do-we-bundle-exec-re-examined/)
+- [Using spaced repetition to learn programming](https://dragonastronauts.com/p/using-spaced-repetition-to-learn-programming/)
 
 
 <!-- ## Hieroglyph Screenshots
