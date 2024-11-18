@@ -10,18 +10,18 @@ layout: home
 </div>
 
 I am a 
-[principal software engineer](#principal-software-engineer), 
+[software engineer](#software-engineer), 
 <!-- [technical leader](#technical-leadership),  -->
 <!-- [contract/freelance engineer](#dragon-astronauts),  -->
-[blogger](#dragon-astronauts-blog), 
+and a [blogger](#dragon-astronauts-blog), 
 <!-- [entreprenuer](#hieroglyph-screenshots),  -->
 <!-- [ruby gem maker](#ruby-gems),  -->
 <!-- [app builder](#iphone-apps),  -->
 <!-- [shop keep](#dragon-astronauts-merch-shop),  -->
 <!-- [alumnus](#education),  -->
-and a runner.
+<!-- and a runner. -->
 
-## Principal Software Engineer
+## Software Engineer
 
 I have over a decade of experience crafting robust web applications, I specialize in building scalable solutions that drive business growth. My journey in software engineering has been marked by leading high-impact initiatives at companies ranging from innovative startups to established enterprises.
 
